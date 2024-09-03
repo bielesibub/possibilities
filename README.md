@@ -2,7 +2,7 @@
 
 As a kid I was fascinated with the book The Directory of Possibilities by Colin Wilson and John Grant. I always wanted an up to date version, but none came out. Not that I'm clever enough to put all this together by myself, I thought what could chatGPT do for me? Here is the book in a github repository.
 
-The goal is to create a readable, believable book purely using the chaGPT 4o LLM. 
+The goal is to create a readable, believable book purely using the chaGPT 4o-mini LLM. I'll expand and do the same for the larger model. 
 
 **Heres how I did it**
 I paid for a monthly $20 personal subscription to chatGPT.

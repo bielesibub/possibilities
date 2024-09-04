@@ -13,3 +13,4 @@
 - [Chapter 6 - The Ethics and Implications of Human Enhancement](chapter_6.md)
 - [Chapter 7 - Navigating the Future: Strategies for Personal and Collective Growth](chapter_7.md)
 - [Conclusion](conclusion.md)
+- [Appendices](appendices.md)

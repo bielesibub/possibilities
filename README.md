@@ -3,7 +3,9 @@
 
 **Overview**
 
-As a kid I was fascinated with the book The Directory of Possibilities by Colin Wilson and John Grant. I always wanted an up to date version, but none came out. Not that I'm clever enough to put all this together by myself, I thought what could chatGPT do for me? Here is the book in a github repository.
+As a kid I was fascinated with the book The Directory of Possibilities by Colin Wilson and John Grant. I always wanted an up to date version, but none came out. 
+Not that I'm clever enough to put all this together by myself, I thought what could chatGPT do for me? 
+Although its not quite what I had in mind, here is the book that we came up with.
 
 The goal is to create a readable, believable book purely using the chaGPT 4o-mini LLM. I'll expand and do the same for the larger model. 
 
@@ -61,4 +63,8 @@ I asked it the following question:
 This modern adaptation would integrate the latest scientific research, technological advancements, and contemporary philosophical perspectives to offer a fresh and relevant exploration of human potential.
 
 >can you expand chapter 1...
+
+---
+
+This work is licensed under a Creative Commons Attribution 4.0 International License. You are free to share and adapt this work, even for commercial purposes, as long as you give appropriate credit to the author. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/
 
